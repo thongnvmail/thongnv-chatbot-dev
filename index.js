@@ -1,6 +1,6 @@
 /*
 Ban Can Co:
-
+https://www.youtube.com/watch?v=eLevk-c8Xwc&t=603s
   1. Heroku account
   2. FB account
   3. FB page
@@ -29,7 +29,7 @@ app.get('/', function (req, res){
 
 //
 app.get('/webhook/', function(req, res){
-	if(req.query['hub.verify_token'] ===token){
+	if(req.query['hub.verify_token'] === token){
 		res.send(req.query['hub.challenge'])
 		}
 	res.send('khong co gi');

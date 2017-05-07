@@ -34,7 +34,7 @@ app.get('/webhook/', function(req, res){
 		}
 	res.send('khong co gi');
 	})
-//	
+//	code tren fb 5. Receive Messages
 app.post('/webhook', function (req, res) {
   var data = req.body;
 

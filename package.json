@@ -1,0 +1,23 @@
+{
+  "name": "fbbotheroku",
+  "version": "0.0.1",
+  "description": "Day la v dau tien",
+  "main": "index.js",
+  "scripts": {
+    "test": "hoho"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cap nhat sau"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "thongnv",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}

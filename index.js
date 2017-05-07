@@ -10,7 +10,7 @@ Ban Can Co:
 */
 
 const express = require('express')
-const bodyPaser = require('body-parser')
+const bodyParser = require('body-parser')
 const app = express()
 //
 app.set('port',(process.env.PORT || 5000))

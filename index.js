@@ -1,3 +1,4 @@
+'use strict'
 /*
 Ban Can Co:
 https://www.youtube.com/watch?v=eLevk-c8Xwc&t=603s

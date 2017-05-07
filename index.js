@@ -118,7 +118,7 @@ function sendTextMessage(recipientId, messageText) {
 }
 
 function callSendAPI(messageData) {
-  express.request({
+  	http.request({
     uri: 'https://graph.facebook.com/v2.6/me/messages',
     qs: { access_token: access },
     method: 'POST',

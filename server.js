@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=eLevk-c8Xwc&t=603s
 
 const express = require('express')
 const bodyParser = require('body-parser')
+const request = require('request')
 const app = express()
 
 //Bien lay gia tri token tren FB thongnvbot

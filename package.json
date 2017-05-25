@@ -1,7 +1,7 @@
 {
-  "name": "fbbotheroku",
+  "name": "thongnv-chatbot-dev",
   "version": "0.0.1",
-  "description": "Day la v dau tien",
+  "description": "thongnv-chatbot-dev",
   "main": "index.js",
   "scripts": {
     "test": "hoho"
